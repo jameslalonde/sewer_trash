@@ -2,3 +2,6 @@ Hi, I am a new line.
 Hello, world!
 Welcome to my Git text file.
 Thanks for coming.
+More lines
+Are added
+to your file
